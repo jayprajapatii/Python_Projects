@@ -1,0 +1,96 @@
+PRA - 1
+
+Enter Python Internal Marks ->30
+Enter PHP Internal Marks ->25
+Enter Mern Internal Marks ->33
+Enter DMM Internal Marks ->45
+Enter CDP1 Internal Marks ->48
+Enter Python External Marks ->50
+Enter PHP External Marks ->55
+Enter Mern External Marks ->56
+Enter DMM External Marks ->58
+Enter CDP1 External Marks ->50
+The Result is Distinction Grade with 90.0 %, obtained total marks 450 out of 500
+
+PRA - 2 
+
+Enter name of friends separated by comma(,) ->paras,janvi,jay,leen
+paras will deliver the session
+
+PRA - 3
+
+Enter all heights seperated by a space==>150 160 170 180
+165.0
+
+PRA - 4 
+
+Welcome to Password Generator
+How many letters you want in Pasword-> 2
+How many letters you want in Pasword-> 2
+How many letters you want in Pasword-> 2
+hp56$%
+
+PRA - 5 
+
+Enter first number: 20
+Enter operator (+, -, *, /): +
+Enter second number: 30
+Result: 50.0
+
+PRA - 6 
+
+Enter 'add', 'view', 'delete', or 'exit': add
+Enter a task: 10
+Enter 'add', 'view', 'delete', or 'exit': add
+Enter a task: 20
+Enter 'add', 'view', 'delete', or 'exit': view
+Tasks: ['10', '20']
+Enter 'add', 'view', 'delete', or 'exit': delete
+Enter a task to delete: 10
+Enter 'add', 'view', 'delete', or 'exit': view
+Tasks: ['20']
+Enter 'add', 'view', 'delete', or 'exit': exit
+
+PRA - 7 
+
+Enter 'add', 'view', 'delete', or 'exit': add
+Enter contact name: jay
+Enter phone number: 7046705720
+Enter 'add', 'view', 'delete', or 'exit': add
+Enter contact name: paras
+Enter phone number: 9898365265
+Enter 'add', 'view', 'delete', or 'exit': view
+Contacts: {'jay': '7046705720', 'paras': '9898365265'}
+Enter 'add', 'view', 'delete', or 'exit': delete
+Enter contact name to delete: jay
+Enter 'add', 'view', 'delete', or 'exit': view
+Contacts: {'paras': '9898365265'}
+Enter 'add', 'view', 'delete', or 'exit': exit
+
+PRA - 8 
+
+Lines: 2, Words: 4, Characters: 27
+
+PRA - 9 
+
+Enter 'add', 'view', or 'exit': add
+Enter category: Food
+Enter amount: 200
+Enter description: Lunch at cafe
+
+Enter 'add', 'view', or 'exit': add
+Enter category: Transport
+Enter amount: 50
+Enter description: Bus ticket
+
+Enter 'add', 'view', or 'exit': view
+Total Expenses: 250.0
+{'category': 'Food', 'amount': 200.0, 'description': 'Lunch at cafe'}
+{'category': 'Transport', 'amount': 50.0, 'description': 'Bus ticket'}
+
+Enter 'add', 'view', or 'exit': exit
+
+PRA - 10 
+
+
+
